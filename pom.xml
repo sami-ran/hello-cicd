@@ -37,9 +37,9 @@
 						<muleVersion>4.4.0-20220221</muleVersion>
 						<username>samiran_6092022</username>
 						<password>Samiran@123</password>
-						<environment>sandbox</environment>
+						<environment>Sandbox</environment>
 						<applicationName>hello-cicd</applicationName>
-						<businessGroup>personal</businessGroup>
+						<businessGroup>Personal</businessGroup>
 						<workerType>MICRO</workerType>
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
